@@ -5,14 +5,16 @@
 
 ## 💫 Little Bit More About Me
 
-INTERESTS:
-<p> Strong conceptualizatrion ability,attention to detail,and creative eye,able to solve complex
-business challenges,while keeping in mind needs of the end user.</p>
-<p> Highly effective in relationship building. </p>
-<p> Goal driven and motivated by project timelines. </p>
-<p> Web development</p>
-<p> Front-end development</p>
-<p> UI/UX</p>
+🚀 Soft Skills:
+
+<p>💬 Clear Communicator</p>
+<p>🌐 Adaptable</p>
+<p>🧩 Problem Solver</p>
+<p>🤝 Team Collaborator</p>
+<p>⏰ Time Management Pro</p>
+<p>💡 Innovative Thinker</p>
+<p>📚 Continuous Learner</p>
+<p>🌟 Leadership Qualities</p>
  
 
 ## 💻 Skills
