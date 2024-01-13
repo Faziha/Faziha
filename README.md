@@ -1,17 +1,16 @@
 # Hi there 👋, My name is Faziha Ikhlaq
 
 
-🚀 Embarking on my final semester of BS Computer Science at FAST University, Islamabad, I am at the intersection of innovation and technology. Proficient in front-end development, web development, Vue.js, MLOps, and adept in harnessing the power of Cloud Computing, I navigate the digital landscape with finesse. My passion lies in transforming ideas into impactful, user-centric solutions while ensuring scalability and efficiency through cloud-based architectures. Join me on this exhilarating journey as we weave the future of technology together! 💻☁️ #TechEnthusiast #WebDeveloper #VueJSWizard #MLOpsInnovator #CloudComputingExplorer
+🚀 Embarking on my final semester of BS Computer Science at FAST University, Islamabad. Proficient in front-end development, web development, Vue.js, MLOps, and adept in harnessing the power of Cloud Computing, I navigate the digital landscape with finesse. My passion lies in transforming ideas into impactful, user-centric solutions while ensuring scalability and efficiency through cloud-based architectures. Join me on this exhilarating journey as we weave the future of technology together! 💻☁️ 
 
 ## 💫 Little Bit More About Me
 
 🚀 Soft Skills:
 
-<p>💬 Clear Communicator</p>
 <p>🌐 Adaptable</p>
 <p>🧩 Problem Solver</p>
 <p>🤝 Team Collaborator</p>
-<p>⏰ Time Management Pro</p>
+<p>⏰ Time Management </p>
 <p>💡 Innovative Thinker</p>
 <p>📚 Continuous Learner</p>
 <p>🌟 Leadership Qualities</p>
