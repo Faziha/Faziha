@@ -1,7 +1,7 @@
 # Hi there 👋, My name is Faziha Ikhlaq
 
 
-🚀 Embarking on my final semester of BS Computer Science at FAST University, Islamabad. Proficient in front-end development, web development, Vue.js, MLOps, and adept in harnessing the power of Cloud Computing, I navigate the digital landscape with finesse. My passion lies in transforming ideas into impactful, user-centric solutions while ensuring scalability and efficiency through cloud-based architectures. Join me on this exhilarating journey as we weave the future of technology together! 💻☁️ 
+🚀 Embarking on my final semester of BS Computer Science at FAST University, Islamabad. Proficient in front-end development, web development, Vue.js, React, MLOps, Kotlin, XML, Python and adept in harnessing the power of Cloud Computing, I navigate the digital landscape with finesse. My passion lies in transforming ideas into impactful, user-centric solutions while ensuring scalability and efficiency through cloud-based architectures. Join me on this exhilarating journey as we weave the future of technology together! 💻☁️ 
 
 ## 💫 Little Bit More About Me
 
