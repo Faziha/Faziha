@@ -24,6 +24,6 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+<!-- </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Faziha&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faziha&langs_count=10&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faziha&langs_count=10&layout=compact&theme=tokyonight" /> -->
